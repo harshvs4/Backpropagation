@@ -61,6 +61,3 @@
 
 ![image](https://user-images.githubusercontent.com/63489899/212284497-30b48c0c-72ee-4fbd-ad87-45b07156730c.png)
 
-
-# Reference
-https://towardsdatascience.com/how-to-reduce-training-parameters-in-cnns-while-keeping-accuracy-99-a213034a9777
