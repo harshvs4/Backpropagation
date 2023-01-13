@@ -4,9 +4,9 @@
 
 ## Backpropagation on a Neural Network
 
-![image](https://user-images.githubusercontent.com/63489899/212275539-e32cce6e-8b77-4336-a2b7-5419cd739905.png | width="100")
+![image](https://user-images.githubusercontent.com/63489899/212275539-e32cce6e-8b77-4336-a2b7-5419cd739905.png)
 
-![image](https://user-images.githubusercontent.com/63489899/212283083-3b38be21-9faa-4219-b1eb-66dacc053906.png | width=100px)
+![image](https://user-images.githubusercontent.com/63489899/212283083-3b38be21-9faa-4219-b1eb-66dacc053906.png)
 
 ## Major Steps
 
@@ -47,19 +47,19 @@
 
 1. At ͷ = 1
 
-![image](https://user-images.githubusercontent.com/63489899/212284018-c65c96a8-0579-49d0-b2c0-464fb582baed.png | width=100)
+![image](https://user-images.githubusercontent.com/63489899/212284018-c65c96a8-0579-49d0-b2c0-464fb582baed.png)
 
 2. At ͷ = 2
 
-![image](https://user-images.githubusercontent.com/63489899/212284229-40638af5-fa37-46e0-89ba-b364c12ba62f.png | width=100)
+![image](https://user-images.githubusercontent.com/63489899/212284229-40638af5-fa37-46e0-89ba-b364c12ba62f.png)
 
 3. At ͷ = 0.1
 
-![image](https://user-images.githubusercontent.com/63489899/212284373-a7c46148-f19f-4ac9-8e44-cc8c88b369af.png | width=100)
+![image](https://user-images.githubusercontent.com/63489899/212284373-a7c46148-f19f-4ac9-8e44-cc8c88b369af.png)
 
 4. At ͷ = 0.5
 
-![image](https://user-images.githubusercontent.com/63489899/212284497-30b48c0c-72ee-4fbd-ad87-45b07156730c.png | width=100)
+![image](https://user-images.githubusercontent.com/63489899/212284497-30b48c0c-72ee-4fbd-ad87-45b07156730c.png)
 
 
 # Reference
