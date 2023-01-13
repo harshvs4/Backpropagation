@@ -4,9 +4,9 @@
 
 ## Backpropagation on a Neural Network
 
-![image](https://user-images.githubusercontent.com/63489899/212275539-e32cce6e-8b77-4336-a2b7-5419cd739905.png | width=100)
+![image](https://user-images.githubusercontent.com/63489899/212275539-e32cce6e-8b77-4336-a2b7-5419cd739905.png | width=100px)
 
-![image](https://user-images.githubusercontent.com/63489899/212283083-3b38be21-9faa-4219-b1eb-66dacc053906.png | width=100)
+![image](https://user-images.githubusercontent.com/63489899/212283083-3b38be21-9faa-4219-b1eb-66dacc053906.png | width=100px)
 
 ## Major Steps
 
